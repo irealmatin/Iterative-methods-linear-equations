@@ -1,5 +1,5 @@
 """
-Python code related to the numerical linear algebra lesson project -> a system of linear equations with SOR method
+Python code related to the numerical linear algebra -> a system of linear equations with SOR method
 
 Professor's name: Dr. Tabrizi Doz
 """
